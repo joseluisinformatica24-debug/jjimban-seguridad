@@ -15,7 +15,7 @@ Para clonar y levantar el entorno completo, ejecute los siguientes comandos en s
 
 ```bash
 # Clonar el repositorio
-git clone <URL_DE_TU_REPOSITORIO>
+git clone (https://github.com/joseluisinformatica24-debug/jjimban-seguridad.git)
 
 # Entrar en la carpeta
 cd nombre-repositorio
