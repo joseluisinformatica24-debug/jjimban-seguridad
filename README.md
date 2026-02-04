@@ -7,7 +7,7 @@ El objetivo es implementar un entorno seguro y eficiente utilizando contenedores
 ## 2. Diagrama de Arquitectura
 El sistema utiliza una red privada interna (172.x.x.x) donde solo el Proxy Nginx es accesible desde el exterior.
 
-![Diagrama de Arquitectura](https://via.placeholder.com/600x400?text=Sube+aquí+la+imagen+del+croquis)
+![Diagrama de Arquitectura](diagrama.png)
 
 
 ## 3. Instrucciones de Despliegue
@@ -15,7 +15,7 @@ Para clonar y levantar el entorno completo, ejecute los siguientes comandos en s
 
 ```bash
 # Clonar el repositorio
-git clone (https://github.com/joseluisinformatica24-debug/jjimban-seguridad.git)
+git clone [https://github.com/joseluisinformatica24-debug/jjimban-seguridad.git]
 
 # Entrar en la carpeta
 cd nombre-repositorio
